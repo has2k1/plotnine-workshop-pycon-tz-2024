@@ -31,6 +31,12 @@ Everything should be set up for you to run the code in the notebook right away.
 
 We recommend using `uv`, but if you prefer to use something else, then that's fine too.
 
+### Step 0: Clone the Repository
+
+```
+git clone https://github.com/has2k1/plotnine-workshop-pycon-tz-2024.git
+```
+
 ### Step 1: Install Package Manager `uv`
 
 ```

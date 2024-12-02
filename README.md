@@ -1,4 +1,4 @@
-# Plotnine Tutorial PyData NYC 2024
+# Plotnine Tutorial Pycon Tanzania 2024
 
 In order to follow along, it's important to get everything set up, preferably before the workshop starts.
 You have two options: (a) use Posit Cloud (where everything is already installed) or (b) use your own laptop (and install everything locally).

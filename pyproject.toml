@@ -1,0 +1,10 @@
+[project]
+name = "plotnine-workshop-pycon-tz-2024"
+version = "0.1.0"
+description = "Plotnine Workshop at PyCon Tanzania 2024"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyterlab>=4.2.5",
+    "plotnine[all]>=0.14.2",
+]
